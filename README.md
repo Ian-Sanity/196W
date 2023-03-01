@@ -1,3 +1,3 @@
 # 196W
-# Ian Schultz
-# Assignment 5
+Ian Schultz
+Assignment 5
